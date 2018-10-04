@@ -8,4 +8,17 @@ Author's: Ryan Burkhart, Annette Segura, Emmanuel Cortes
 Date: 10-3-18
 
 Filename: Main.css
-/*
+*/
+
+html {
+    background-color: rgb(73, 13, 85);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
