@@ -8,6 +8,15 @@ Date: 10-3-18
 Filename: Main.css
 */
 
+p {
+    font-family: 'Muli', sans-serif;
+    font-size: 1.25em
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
 html {
     background-color: rgb(73, 13, 85);
 }
@@ -48,4 +57,8 @@ li a:hover {
 
 nav {
     text-align: center;
+}
+
+aside img {
+    float: left;
 }
