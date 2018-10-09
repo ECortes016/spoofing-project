@@ -1,17 +1,7 @@
-/*
-spoofing-project
-
-Main.css
-Author's: Ryan Burkhart, Annette Segura, Emmanuel Cortes 
-Date: 10-3-18
-
-Filename: Main.css
-*/
-
 p {
-    font-family: 'Muli', sans-serif;
     font-size: 1.25em
 }
+
 
 html {
     background-color: rgb(73, 13, 85);
