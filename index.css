@@ -60,3 +60,9 @@ nav {
 aside img {
     float: left;
 }
+
+footer {
+    background-color: tan;
+    padding: 10px 10px;
+    text-align: center;
+}
