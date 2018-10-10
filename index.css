@@ -16,7 +16,7 @@ img {
 
 p {
     font-family: 'Muli', sans-serif;
-    font-size: 1.25em
+    font-size: 1.25em;
 }
 
 html {
@@ -76,12 +76,7 @@ aside img {
 
 footer {
     background-color: tan;
-<<<<<<< HEAD
-    padding: 10px 10px;
-    text-align: center;
-=======
     text-align: center;
     padding: 10px 10px;
-    font-family: 'Roboto Slab'
->>>>>>> feature1
+    font-family: 'Roboto Slab';
 }
