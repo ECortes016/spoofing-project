@@ -10,6 +10,7 @@ Filename: Main.css
 
 p {
     font-family: 'Muli', sans-serif;
+    font-size: 1.25em
 }
 
 html {
@@ -65,8 +66,14 @@ aside {
     size: 2em;
 }
 
-aside>img {
+#img1 {
     float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#img2 {
+    float: right;
 }
 
 aside ol h2 li {
@@ -86,4 +93,8 @@ footer {
     text-align: center;
     padding: 10px 10px;
     font-family: 'Roboto Slab'
+}
+
+li {
+    font-family: 'Bai Jamjuree', sans-serif;
 }
