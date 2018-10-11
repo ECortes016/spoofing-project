@@ -1,18 +1,17 @@
 /*
 spoofing-project
 
-attacks.css
+anti.css
 Author's: Ryan Burkhart, Annette Segura, Emmanuel Cortes 
 Date: 10-3-18
 
-Filename: attacks.css
+Filename: anti.css
 */
-
 
 p {
     font-family: 'Muli', sans-serif;
-    font-size: 1.25em;
-    padding-right: 15px;
+    font-size: 1.3em;
+    padding-right: 5px;
 }
 
 
@@ -30,26 +29,21 @@ h1 {
     font-family: 'Roboto Slab', serif;
 }
 
-h2 {
-    font-family: 'Bai Jamjuree', sans-serif;
-    padding-left: 30px;
-    font-size: 2em;
-}
 
-nav ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: tan;
 }
 
-nav ul li {
+ul li {
     display: inline-block;
     padding: 10px 10px;
     margin: 10px 10px;
 }
 
-li>a {
+li a {
     color: black;
     text-decoration: none;
     font-size: 2em;
@@ -65,34 +59,21 @@ nav {
     font-family: 'Bai Jamjuree', sans-serif;
 }
 
-aside img {
+#img1 {
     float: left;
-    padding-left: 15px;
-    padding-right: 30px;
-    padding-bottom: 230px}
-
+    padding-right: 15px;
+    padding-left: 20px;
+    padding-bottom: 40px
+}
 
 footer {
     background-color: tan;
     text-align: center;
     padding: 10px 10px;
-    font-family: 'Roboto Slab';
+    font-family: 'Roboto Slab'
 }
 
-ol li {
-    list-style: disc;
-    font-family: 'Roboto Slab';    
-}
-
-h3 {
-    font-size: 1.5em;
-}
-
-#list {
-    list-style: circle;
-    font-size: 1.05em;
-}
-
-#img2 {
-    float: right;
+h2 {
+    font-size: 25px;
+    padding-left: 15px
 }
