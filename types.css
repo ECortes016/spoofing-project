@@ -10,10 +10,8 @@ Filename: Main.css
 
 p {
     font-family: 'Muli', sans-serif;
-}
-
-h1 {
-    font-family: 'Roboto Slab', serif;
+    font-size: 1.3em;
+    padding-right: 5px;
 }
 
 html {
@@ -27,6 +25,7 @@ body {
 h1 {
     text-align: center;
     font-size: 95px;
+    font-family: 'Roboto Slab', serif;
 }
 
 
@@ -56,6 +55,7 @@ li a:hover {
 
 nav {
     text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
 }
 
 ol li a {
@@ -64,11 +64,13 @@ ol li a {
 }
 
 aside {
-    size: 2em
+    size: 2em;
 }
 
-aside>img {
+#img1 {
     float: left;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 aside ol h2 li {
@@ -81,4 +83,15 @@ aside ol h2 li {
 
 aside img {
     padding-bottom: 20px;
+}
+
+footer {
+    background-color: tan;
+    text-align: center;
+    padding: 10px 10px;
+    font-family: 'Roboto Slab'
+}
+
+li {
+    font-family: 'Bai Jamjuree', sans-serif;
 }
