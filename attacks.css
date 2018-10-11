@@ -1,23 +1,7 @@
-/*
-spoofing-project
-
-index.css
-Author's: Ryan Burkhart, Annette Segura, Emmanuel Cortes 
-Date: 10-3-18
-
-Filename: index.css
-*/
-
-img {
-    padding-right: 25px;
-    margin-top: 0px;
-    padding-left: 10px;
-}
-
 p {
-    font-family: 'Muli', sans-serif;
-    font-size: 1.25em;
+    font-size: 1.25em
 }
+
 
 html {
     background-color: rgb(73, 13, 85);
@@ -27,19 +11,12 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
-
-
 h1 {
     text-align: center;
     font-size: 100px;
     font-family: 'Roboto Slab', serif;
 }
 
-h2 {
-    font-family: 'Bai Jamjuree', sans-serif;
-    padding-left: 20px;
-    font-size: 50px;
-}
 
 ul {
     list-style-type: none;
@@ -58,7 +35,7 @@ li a {
     color: black;
     text-decoration: none;
     font-size: 2em;
-    padding: 0px 0px;
+    padding: 0px 0px
 }
 
 li a:hover {
@@ -67,16 +44,19 @@ li a:hover {
 
 nav {
     text-align: center;
-    font-family: 'Bai Jamjuree', sans-serif;
 }
 
 aside img {
     float: left;
 }
 
+h2 {
+    font-size: 25px;
+}
+
 footer {
     background-color: tan;
     padding: 10px 10px;
     text-align: center;
-    font-family: 'Roboto Slab';
 }
+
