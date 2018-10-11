@@ -1,5 +1,17 @@
+/*
+spoofing-project
+
+anti-spoofing.css
+Author's: Ryan Burkhart, Annette Segura, Emmanuel Cortes 
+Date: 10-3-18
+
+Filename: types.css
+*/
+
 p {
-    font-size: 1.25em
+    font-family: 'Muli', sans-serif;
+    font-size: 1.3em;
+    padding-right: 5px;
 }
 
 
@@ -44,18 +56,24 @@ li a:hover {
 
 nav {
     text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
 }
 
-aside img {
+#img1 {
     float: left;
-}
-
-h2 {
-    font-size: 20px;
+    padding-right: 15px;
+    padding-left: 20px;
+    padding-bottom: 40px
 }
 
 footer {
     background-color: tan;
-    padding: 10px 10px;
     text-align: center;
+    padding: 10px 10px;
+    font-family: 'Roboto Slab'
+}
+
+h2 {
+    font-size: 25px;
+    padding-left: 15px
 }
